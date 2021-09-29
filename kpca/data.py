@@ -5,7 +5,7 @@ import numpy as np
 
 MNIST_DIR = '/usr/people/kluther/seungmount/research/kluther/data/mnist'
 
-class Loader(nn.Module):
+class Loader:
     def __init__(self, x, batch_size=64):
         self.x = x
         self.batch_size = batch_size

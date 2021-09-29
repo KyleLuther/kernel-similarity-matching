@@ -1,0 +1,145 @@
+[I 2021-09-29 13:06:57.960 ServerApp] jupyterlab | extension was successfully linked.
+[I 2021-09-29 13:07:01.680 ServerApp] nbclassic | extension was successfully linked.
+[I 2021-09-29 13:07:01.810 ServerApp] nbclassic | extension was successfully loaded.
+[I 2021-09-29 13:07:01.813 LabApp] JupyterLab extension loaded from /usr/people/kluther/anaconda3/envs/kpca/lib/python3.9/site-packages/jupyterlab
+[I 2021-09-29 13:07:01.813 LabApp] JupyterLab application directory is /mnt/bucket/people/kluther/anaconda3/envs/kpca/share/jupyter/lab
+[I 2021-09-29 13:07:01.822 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2021-09-29 13:07:01.824 ServerApp] Serving notebooks from local directory: /mnt/cup/labs/seung/research/kluther/kpca
+[I 2021-09-29 13:07:01.824 ServerApp] Jupyter Server 1.11.0 is running at:
+[I 2021-09-29 13:07:01.824 ServerApp] http://localhost:9009/lab?token=fe8244ab645eec9c76d99c279a9d6ba29ae5a453dbd16e6c
+[I 2021-09-29 13:07:01.824 ServerApp]  or http://127.0.0.1:9009/lab?token=fe8244ab645eec9c76d99c279a9d6ba29ae5a453dbd16e6c
+[I 2021-09-29 13:07:01.824 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2021-09-29 13:07:01.851 ServerApp] No web browser found: could not locate runnable browser.
+[C 2021-09-29 13:07:01.851 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///mnt/bucket/people/kluther/.local/share/jupyter/runtime/jpserver-772422-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:9009/lab?token=fe8244ab645eec9c76d99c279a9d6ba29ae5a453dbd16e6c
+     or http://127.0.0.1:9009/lab?token=fe8244ab645eec9c76d99c279a9d6ba29ae5a453dbd16e6c
+[W 2021-09-29 13:07:36.404 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2021-09-29 13:07:38.969 ServerApp] Notebook train-networks-wql.ipynb is not trusted
+[W 2021-09-29 13:07:39.097 ServerApp] Notebook make-figures-uncentered.ipynb is not trusted
+/usr/people/kluther/anaconda3/envs/kpca/lib/python3.9/site-packages/jupyter_client/connect.py:187: RuntimeWarning: Failed to set sticky bit on '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-bd6ae75a-163f-4068-9ed3-0fa9dcfb38ab.json': [Errno 22] Invalid argument: '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-bd6ae75a-163f-4068-9ed3-0fa9dcfb38ab.json'
+Probably not a big deal, but runtime files may be cleaned up periodically.
+  warnings.warn(
+[I 2021-09-29 13:07:40.744 ServerApp] Kernel started: bd6ae75a-163f-4068-9ed3-0fa9dcfb38ab
+/usr/people/kluther/anaconda3/envs/kpca/lib/python3.9/site-packages/jupyter_client/connect.py:187: RuntimeWarning: Failed to set sticky bit on '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-906d84d1-4c63-486b-9a31-393e1e96bca7.json': [Errno 22] Invalid argument: '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-906d84d1-4c63-486b-9a31-393e1e96bca7.json'
+Probably not a big deal, but runtime files may be cleaned up periodically.
+  warnings.warn(
+[I 2021-09-29 13:07:40.785 ServerApp] Kernel started: 906d84d1-4c63-486b-9a31-393e1e96bca7
+/usr/people/kluther/anaconda3/envs/kpca/lib/python3.9/site-packages/jupyter_client/connect.py:187: RuntimeWarning: Failed to set sticky bit on '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-bd6ae75a-163f-4068-9ed3-0fa9dcfb38ab.json': [Errno 22] Invalid argument: '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-bd6ae75a-163f-4068-9ed3-0fa9dcfb38ab.json'
+Probably not a big deal, but runtime files may be cleaned up periodically.
+  warnings.warn(
+/usr/people/kluther/anaconda3/envs/kpca/lib/python3.9/site-packages/jupyter_client/connect.py:187: RuntimeWarning: Failed to set sticky bit on '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-906d84d1-4c63-486b-9a31-393e1e96bca7.json': [Errno 22] Invalid argument: '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-906d84d1-4c63-486b-9a31-393e1e96bca7.json'
+Probably not a big deal, but runtime files may be cleaned up periodically.
+  warnings.warn(
+[I 2021-09-29 13:07:44.732 ServerApp] Saving file at /train-networks-wql.ipynb
+[W 2021-09-29 13:07:44.734 ServerApp] Notebook train-networks-wql.ipynb is not trusted
+[I 2021-09-29 13:08:19.901 ServerApp] Copying train-networks-wql.ipynb to 
+[W 2021-09-29 13:08:19.970 ServerApp] Notebook train-networks-wql.ipynb is not trusted
+[W 2021-09-29 13:08:20.008 ServerApp] Notebook train-networks-wql-Copy1.ipynb is not trusted
+[W 2021-09-29 13:08:35.203 ServerApp] Notebook train-halfmoons.ipynb is not trusted
+/usr/people/kluther/anaconda3/envs/kpca/lib/python3.9/site-packages/jupyter_client/connect.py:187: RuntimeWarning: Failed to set sticky bit on '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-d84d5f02-bdc3-4cdb-a24e-0ae8b2584359.json': [Errno 22] Invalid argument: '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-d84d5f02-bdc3-4cdb-a24e-0ae8b2584359.json'
+Probably not a big deal, but runtime files may be cleaned up periodically.
+  warnings.warn(
+[I 2021-09-29 13:08:36.338 ServerApp] Kernel started: d84d5f02-bdc3-4cdb-a24e-0ae8b2584359
+/usr/people/kluther/anaconda3/envs/kpca/lib/python3.9/site-packages/jupyter_client/connect.py:187: RuntimeWarning: Failed to set sticky bit on '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-d84d5f02-bdc3-4cdb-a24e-0ae8b2584359.json': [Errno 22] Invalid argument: '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-d84d5f02-bdc3-4cdb-a24e-0ae8b2584359.json'
+Probably not a big deal, but runtime files may be cleaned up periodically.
+  warnings.warn(
+[I 2021-09-29 13:08:42.311 ServerApp] Saving file at /train-halfmoons.ipynb
+[W 2021-09-29 13:08:42.313 ServerApp] Notebook train-halfmoons.ipynb is not trusted
+[I 2021-09-29 13:08:52.693 ServerApp] Saving file at /train-halfmoons.ipynb
+[W 2021-09-29 13:08:52.694 ServerApp] Notebook train-halfmoons.ipynb is not trusted
+[I 2021-09-29 13:10:52.936 ServerApp] Saving file at /train-halfmoons.ipynb
+[W 2021-09-29 13:10:52.938 ServerApp] Notebook train-halfmoons.ipynb is not trusted
+[I 2021-09-29 13:11:08.338 ServerApp] Creating new directory in 
+[I 2021-09-29 13:12:39.695 ServerApp] Creating new directory in 
+[I 2021-09-29 13:12:53.141 ServerApp] Saving file at /train-halfmoons.ipynb
+[W 2021-09-29 13:12:53.142 ServerApp] Notebook train-halfmoons.ipynb is not trusted
+[I 2021-09-29 13:14:09.449 ServerApp] Saving file at /kpca/data.py
+[I 2021-09-29 13:14:53.354 ServerApp] Saving file at /train-halfmoons.ipynb
+[W 2021-09-29 13:14:53.355 ServerApp] Notebook train-halfmoons.ipynb is not trusted
+[I 2021-09-29 13:16:11.306 ServerApp] Saving file at /kpca/kernel_pca.py
+[I 2021-09-29 13:16:28.899 ServerApp] Kernel interrupted: d84d5f02-bdc3-4cdb-a24e-0ae8b2584359
+[I 2021-09-29 13:16:53.579 ServerApp] Saving file at /train-halfmoons.ipynb
+[W 2021-09-29 13:16:53.581 ServerApp] Notebook train-halfmoons.ipynb is not trusted
+[I 2021-09-29 13:16:59.767 ServerApp] Kernel interrupted: d84d5f02-bdc3-4cdb-a24e-0ae8b2584359
+[I 2021-09-29 13:17:05.039 ServerApp] Kernel interrupted: d84d5f02-bdc3-4cdb-a24e-0ae8b2584359
+[I 2021-09-29 13:17:16.493 ServerApp] Kernel interrupted: d84d5f02-bdc3-4cdb-a24e-0ae8b2584359
+[I 2021-09-29 13:18:53.780 ServerApp] Saving file at /train-halfmoons.ipynb
+[W 2021-09-29 13:18:53.781 ServerApp] Notebook train-halfmoons.ipynb is not trusted
+[I 2021-09-29 13:19:48.798 ServerApp] Saving file at /train-halfmoons.ipynb
+[I 2021-09-29 13:20:29.177 ServerApp] Copying train-halfmoons.ipynb to 
+[W 2021-09-29 13:20:29.210 ServerApp] Notebook train-halfmoons.ipynb is not trusted
+[W 2021-09-29 13:20:29.230 ServerApp] Notebook train-halfmoons-Copy1.ipynb is not trusted
+[I 2021-09-29 13:21:31.410 ServerApp] Saving file at /kpca/kernel_pca.py
+[I 2021-09-29 13:21:43.552 ServerApp] Saving file at /kpca/kernel_pca.py
+[I 2021-09-29 13:21:49.025 ServerApp] Saving file at /train-halfmoons.ipynb
+[I 2021-09-29 13:23:07.681 ServerApp] Creating new directory in 
+[I 2021-09-29 13:23:49.171 ServerApp] Saving file at /train-halfmoons.ipynb
+[I 2021-09-29 13:24:00.498 ServerApp] Saving file at /train-halfmoons.ipynb
+[W 2021-09-29 13:24:29.836 ServerApp] Notebook train-halfmoons-Copy1.ipynb is not trusted
+/usr/people/kluther/anaconda3/envs/kpca/lib/python3.9/site-packages/jupyter_client/connect.py:187: RuntimeWarning: Failed to set sticky bit on '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-1e6d8fe2-138b-4cc7-9ef9-e5a13f2db3c8.json': [Errno 22] Invalid argument: '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-1e6d8fe2-138b-4cc7-9ef9-e5a13f2db3c8.json'
+Probably not a big deal, but runtime files may be cleaned up periodically.
+  warnings.warn(
+[I 2021-09-29 13:24:30.448 ServerApp] Kernel started: 1e6d8fe2-138b-4cc7-9ef9-e5a13f2db3c8
+/usr/people/kluther/anaconda3/envs/kpca/lib/python3.9/site-packages/jupyter_client/connect.py:187: RuntimeWarning: Failed to set sticky bit on '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-1e6d8fe2-138b-4cc7-9ef9-e5a13f2db3c8.json': [Errno 22] Invalid argument: '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-1e6d8fe2-138b-4cc7-9ef9-e5a13f2db3c8.json'
+Probably not a big deal, but runtime files may be cleaned up periodically.
+  warnings.warn(
+[I 2021-09-29 13:24:46.518 ServerApp] Starting buffering for 1e6d8fe2-138b-4cc7-9ef9-e5a13f2db3c8:f639fff9-e452-4916-8a9b-76bae739119e
+[I 2021-09-29 13:24:52.428 ServerApp] Kernel shutdown: 1e6d8fe2-138b-4cc7-9ef9-e5a13f2db3c8
+[W 2021-09-29 13:24:52.675 ServerApp] delete /train-halfmoons-Copy1.ipynb
+[W 2021-09-29 13:24:52.675 ServerApp] Skipping trash for /mnt/cup/labs/seung/research/kluther/kpca/train-halfmoons-Copy1.ipynb, on different device to home directory
+[I 2021-09-29 13:25:08.994 ServerApp] Kernel shutdown: bd6ae75a-163f-4068-9ed3-0fa9dcfb38ab
+[W 2021-09-29 13:25:09.332 ServerApp] delete /train-networks-wql.ipynb
+[W 2021-09-29 13:25:09.334 ServerApp] Skipping trash for /mnt/cup/labs/seung/research/kluther/kpca/train-networks-wql.ipynb, on different device to home directory
+[W 2021-09-29 13:25:11.333 ServerApp] Notebook train-networks.ipynb is not trusted
+/usr/people/kluther/anaconda3/envs/kpca/lib/python3.9/site-packages/jupyter_client/connect.py:187: RuntimeWarning: Failed to set sticky bit on '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-08e557d3-0b5a-4e21-ba3b-db978c0444b5.json': [Errno 22] Invalid argument: '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-08e557d3-0b5a-4e21-ba3b-db978c0444b5.json'
+Probably not a big deal, but runtime files may be cleaned up periodically.
+  warnings.warn(
+[I 2021-09-29 13:25:12.215 ServerApp] Kernel started: 08e557d3-0b5a-4e21-ba3b-db978c0444b5
+/usr/people/kluther/anaconda3/envs/kpca/lib/python3.9/site-packages/jupyter_client/connect.py:187: RuntimeWarning: Failed to set sticky bit on '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-08e557d3-0b5a-4e21-ba3b-db978c0444b5.json': [Errno 22] Invalid argument: '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-08e557d3-0b5a-4e21-ba3b-db978c0444b5.json'
+Probably not a big deal, but runtime files may be cleaned up periodically.
+  warnings.warn(
+[I 2021-09-29 13:25:58.402 ServerApp] Copying train-halfmoons.ipynb to 
+[W 2021-09-29 13:25:58.436 ServerApp] Notebook train-halfmoons.ipynb is not trusted
+[W 2021-09-29 13:25:58.456 ServerApp] Notebook train-halfmoons-Copy1.ipynb is not trusted
+[W 2021-09-29 13:26:05.838 ServerApp] Notebook train-mnist.ipynb is not trusted
+/usr/people/kluther/anaconda3/envs/kpca/lib/python3.9/site-packages/jupyter_client/connect.py:187: RuntimeWarning: Failed to set sticky bit on '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-e2777256-f1ee-4001-95fa-e7a2b565adc6.json': [Errno 22] Invalid argument: '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-e2777256-f1ee-4001-95fa-e7a2b565adc6.json'
+Probably not a big deal, but runtime files may be cleaned up periodically.
+  warnings.warn(
+[I 2021-09-29 13:26:06.595 ServerApp] Kernel started: e2777256-f1ee-4001-95fa-e7a2b565adc6
+/usr/people/kluther/anaconda3/envs/kpca/lib/python3.9/site-packages/jupyter_client/connect.py:187: RuntimeWarning: Failed to set sticky bit on '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-e2777256-f1ee-4001-95fa-e7a2b565adc6.json': [Errno 22] Invalid argument: '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-e2777256-f1ee-4001-95fa-e7a2b565adc6.json'
+Probably not a big deal, but runtime files may be cleaned up periodically.
+  warnings.warn(
+[I 2021-09-29 13:27:11.166 ServerApp] Saving file at /train-halfmoons.ipynb
+[I 2021-09-29 13:28:06.186 ServerApp] Saving file at /train-mnist.ipynb
+[W 2021-09-29 13:28:06.186 ServerApp] Notebook train-mnist.ipynb is not trusted
+[I 2021-09-29 13:30:06.307 ServerApp] Saving file at /train-mnist.ipynb
+[W 2021-09-29 13:30:06.307 ServerApp] Notebook train-mnist.ipynb is not trusted
+[I 2021-09-29 13:31:10.218 ServerApp] Saving file at /kpca/kernel_pca.py
+[I 2021-09-29 13:31:18.957 ServerApp] Saving file at /kpca/kernel_pca.py
+[I 2021-09-29 13:32:06.418 ServerApp] Saving file at /train-mnist.ipynb
+[I 2021-09-29 13:32:31.312 ServerApp] Saving file at /kpca/kernel_pca.py
+[I 2021-09-29 13:32:47.390 ServerApp] Saving file at /kpca/kernel_pca.py
+[I 2021-09-29 13:32:48.942 ServerApp] Saving file at /kpca/kernel_pca.py
+[I 2021-09-29 13:33:46.853 ServerApp] Kernel interrupted: e2777256-f1ee-4001-95fa-e7a2b565adc6
+[I 2021-09-29 13:33:50.941 ServerApp] Saving file at /kpca/kernel_pca.py
+[I 2021-09-29 13:34:06.546 ServerApp] Saving file at /train-mnist.ipynb
+[I 2021-09-29 13:35:11.579 ServerApp] Kernel interrupted: e2777256-f1ee-4001-95fa-e7a2b565adc6
+[I 2021-09-29 13:35:50.976 ServerApp] Saving file at /kpca/kernel_pca.py
+[I 2021-09-29 13:36:06.681 ServerApp] Saving file at /train-mnist.ipynb
+[I 2021-09-29 13:36:08.623 ServerApp] Saving file at /kpca/kernel_pca.py
+[I 2021-09-29 13:36:31.345 ServerApp] Saving file at /kpca/kernel_pca.py
+[I 2021-09-29 13:36:38.323 ServerApp] Kernel interrupted: e2777256-f1ee-4001-95fa-e7a2b565adc6
+[I 2021-09-29 13:37:01.355 ServerApp] Kernel interrupted: e2777256-f1ee-4001-95fa-e7a2b565adc6
+[I 2021-09-29 13:38:06.813 ServerApp] Saving file at /train-mnist.ipynb
+[I 2021-09-29 13:38:49.185 ServerApp] Saving file at /train-mnist.ipynb
+[I 2021-09-29 13:40:30.123 ServerApp] Kernel interrupted: e2777256-f1ee-4001-95fa-e7a2b565adc6
+[I 2021-09-29 13:40:50.173 ServerApp] Saving file at /train-mnist.ipynb
+[I 2021-09-29 13:42:50.321 ServerApp] Saving file at /train-mnist.ipynb
+[I 2021-09-29 13:44:50.462 ServerApp] Saving file at /train-mnist.ipynb
+[I 2021-09-29 13:46:50.623 ServerApp] Saving file at /train-mnist.ipynb
+[I 2021-09-29 13:48:50.760 ServerApp] Saving file at /train-mnist.ipynb
+[I 2021-09-29 13:49:00.732 ServerApp] Saving file at /train-mnist.ipynb

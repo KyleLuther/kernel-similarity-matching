@@ -1,5 +1,8 @@
 import torch
 import torch.nn as nn
+import time
+
+from kpca.utils import cos_mat
 
 class KernelPCA(nn.Module):
     def __init__(self, m=784, n=64, kernel='poly', c=0, d=1, sig=1, lam=1e-3, device='cpu', dtype=torch.float):
@@ -9,29 +12,32 @@ class KernelPCA(nn.Module):
         self.lam = lam # regularization parameter
         
         # kernel
+        self.c = c
+        self.d = d
+        self.sig = sig
         if kernel == 'poly':
-            self.f = lambda x,y: self.poly_kernel_(x,y,c,d)
+            self.f = lambda x,y: self.poly_kernel_(x,y)
         elif kernel == 'rbf':
-            self.f = lambda x,y: self.rbf_kernel_(x,y,sig)
+            self.f = lambda x,y: self.rbf_kernel_(x,y)
         elif kernel == 'cos':
-            self.f = lambda x,y: self.cos_kernel_(x,y,d)
+            self.f = lambda x,y: self.cos_kernel_(x,y)
         else:
             raise ValueError('Unrecognized kernel type: {}'.format(kernel))
 
-        # init synapses
-        self.q = torch.ones(n, device=device, dtype=dtype, requires_grad=True)
-        self.w = torch.randn(n, m, device=device, dtype=dtype, requires_grad=True)
-        self.l = torch.eye(n, device=device, dtype=dtype, requires_grad=True)
+        # init synapses       
+        self.q = nn.Parameter(torch.ones(n, device=device, dtype=dtype))
+        self.w = nn.Parameter(torch.randn(n, m, device=device, dtype=dtype))
+        self.l = nn.Parameter(torch.eye(n, device=device, dtype=dtype))
 
-    def rbf_kernel_(self,x,y,sig=1):
+    def rbf_kernel_(self,x,y):
         d2 = (x**2).sum(-1).unsqueeze(-1) + (y**2).sum(-1).unsqueeze(-2) - 2 * x @ y.transpose(-1,-2)
-        return (-1/2*d2/sig**2).exp()
+        return (-1/2*d2/self.sig**2).exp()
     
-    def poly_kernel_(self,x,y,c=0,d=1):
-        return (x@y.t()+c)**d
+    def poly_kernel_(self,x,y):
+        return (x@y.t()+self.c)**self.d
     
-    def cos_kernel_(self,x,y,d):
-        return x.norm(dim=1).view(-1,1) * y.norm(dim=1).view(1,-1) * (cos_mat(x,y)**d)
+    def cos_kernel_(self,x,y):
+        return x.norm(dim=1).view(-1,1) * y.norm(dim=1).view(1,-1) * (cos_mat(x,y)**self.d)
     
     def energy(self, x, y):
         cyy = (y.t() @ y) / y.shape[0]

@@ -3,7 +3,7 @@ import torch
 import torchvision
 import numpy as np
 
-MNIST_DIR = '/usr/people/kluther/seungmount/research/kluther/data/mnist'
+MNIST_DIR ='./'
 
 class Loader:
     def __init__(self, x, batch_size=64):
@@ -18,12 +18,11 @@ class Loader:
                 ixs = torch.randperm(len(self.x))[:self.batch_size]
                 yield self.x[ixs]
 
-def half_moons(device='cpu'):
+def half_moons(device='cpu',noise=0.1):
     dtype = torch.float32
-    ds = datasets.make_moons(n_samples=1600, noise=.1)
+    ds = datasets.make_moons(n_samples=1600, noise=noise)
     x = torch.tensor(ds[0], dtype=dtype, device=device)
     x = x-x.mean(0)
-    x = x / x.std(0)
     labels = torch.tensor(ds[1], dtype=dtype, device=device)
     return x, labels
 

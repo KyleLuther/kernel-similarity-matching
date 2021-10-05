@@ -143,3 +143,376 @@ Probably not a big deal, but runtime files may be cleaned up periodically.
 [I 2021-09-29 13:46:50.623 ServerApp] Saving file at /train-mnist.ipynb
 [I 2021-09-29 13:48:50.760 ServerApp] Saving file at /train-mnist.ipynb
 [I 2021-09-29 13:49:00.732 ServerApp] Saving file at /train-mnist.ipynb
+[I 2021-09-29 13:51:00.897 ServerApp] Saving file at /train-mnist.ipynb
+[I 2021-09-29 13:53:01.014 ServerApp] Saving file at /train-mnist.ipynb
+[W 2021-09-29 13:53:52.818 ServerApp] Notebook old_stuff/make-figures-uncentered.ipynb is not trusted
+/usr/people/kluther/anaconda3/envs/kpca/lib/python3.9/site-packages/jupyter_client/connect.py:187: RuntimeWarning: Failed to set sticky bit on '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-ef5a9b97-88d6-47e7-8f9c-bda40fd3c9fe.json': [Errno 22] Invalid argument: '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-ef5a9b97-88d6-47e7-8f9c-bda40fd3c9fe.json'
+Probably not a big deal, but runtime files may be cleaned up periodically.
+  warnings.warn(
+[I 2021-09-29 13:53:53.719 ServerApp] Kernel started: ef5a9b97-88d6-47e7-8f9c-bda40fd3c9fe
+/usr/people/kluther/anaconda3/envs/kpca/lib/python3.9/site-packages/jupyter_client/connect.py:187: RuntimeWarning: Failed to set sticky bit on '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-ef5a9b97-88d6-47e7-8f9c-bda40fd3c9fe.json': [Errno 22] Invalid argument: '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-ef5a9b97-88d6-47e7-8f9c-bda40fd3c9fe.json'
+Probably not a big deal, but runtime files may be cleaned up periodically.
+  warnings.warn(
+[I 2021-09-29 13:53:59.994 ServerApp] Copying old_stuff/make-figures-uncentered.ipynb to /old_stuff
+[W 2021-09-29 13:54:00.037 ServerApp] Notebook old_stuff/make-figures-uncentered.ipynb is not trusted
+[W 2021-09-29 13:54:00.064 ServerApp] Notebook old_stuff/make-figures-uncentered-Copy1.ipynb is not trusted
+[W 2021-09-29 13:54:20.341 ServerApp] Notebook figures-mnist.ipynb is not trusted
+/usr/people/kluther/anaconda3/envs/kpca/lib/python3.9/site-packages/jupyter_client/connect.py:187: RuntimeWarning: Failed to set sticky bit on '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-4fdfdeb6-6d34-44bb-b536-7b66a8f273e2.json': [Errno 22] Invalid argument: '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-4fdfdeb6-6d34-44bb-b536-7b66a8f273e2.json'
+Probably not a big deal, but runtime files may be cleaned up periodically.
+  warnings.warn(
+[I 2021-09-29 13:54:21.377 ServerApp] Kernel started: 4fdfdeb6-6d34-44bb-b536-7b66a8f273e2
+/usr/people/kluther/anaconda3/envs/kpca/lib/python3.9/site-packages/jupyter_client/connect.py:187: RuntimeWarning: Failed to set sticky bit on '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-4fdfdeb6-6d34-44bb-b536-7b66a8f273e2.json': [Errno 22] Invalid argument: '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-4fdfdeb6-6d34-44bb-b536-7b66a8f273e2.json'
+Probably not a big deal, but runtime files may be cleaned up periodically.
+  warnings.warn(
+[I 2021-09-29 13:54:23.109 ServerApp] Starting buffering for ef5a9b97-88d6-47e7-8f9c-bda40fd3c9fe:257dda5f-0500-4f21-9205-e4c70bc5103f
+[I 2021-09-29 13:54:23.995 ServerApp] Starting buffering for 08e557d3-0b5a-4e21-ba3b-db978c0444b5:200c839b-44d8-44a8-95c4-a3404732c4e8
+[I 2021-09-29 13:55:01.138 ServerApp] Saving file at /train-mnist.ipynb
+[W 2021-09-29 13:56:19.150 ServerApp] Notebook old_stuff/make-figures-uncentered.ipynb is not trusted
+[I 2021-09-29 13:56:20.879 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-09-29 13:56:20.879 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-09-29 13:57:01.255 ServerApp] Saving file at /train-mnist.ipynb
+[I 2021-09-29 13:58:21.091 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-09-29 13:58:21.092 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-09-29 13:58:53.848 ServerApp] Creating new directory in /figures
+[I 2021-09-29 13:59:01.348 ServerApp] Saving file at /train-mnist.ipynb
+[I 2021-09-29 14:00:21.308 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-09-29 14:00:21.310 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-09-29 14:01:01.449 ServerApp] Saving file at /train-mnist.ipynb
+[I 2021-09-29 14:02:21.542 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-09-29 14:02:21.543 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-09-29 14:02:33.650 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-09-29 14:02:33.651 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-09-29 14:04:33.880 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-09-29 14:04:33.881 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-09-29 14:06:34.145 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-09-29 14:06:34.146 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-09-29 14:08:19.461 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-09-29 14:08:19.461 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-09-29 14:09:01.581 ServerApp] Saving file at /train-mnist.ipynb
+[I 2021-09-29 14:10:19.693 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-09-29 14:10:19.693 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-09-29 14:10:52.907 ServerApp] Saving file at /train-mnist.ipynb
+[I 2021-09-29 14:11:00.517 ServerApp] Saving file at /train-mnist.ipynb
+[I 2021-09-29 14:11:31.411 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-09-29 14:11:31.412 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-09-29 14:12:53.730 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-09-29 14:12:53.731 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-09-29 14:12:59.369 ServerApp] Copying figures-mnist.ipynb to 
+[W 2021-09-29 14:12:59.439 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[W 2021-09-29 14:12:59.489 ServerApp] Notebook figures-mnist-Copy1.ipynb is not trusted
+[I 2021-09-29 14:13:00.630 ServerApp] Saving file at /train-mnist.ipynb
+[I 2021-09-29 14:13:10.240 ServerApp] Starting buffering for ef5a9b97-88d6-47e7-8f9c-bda40fd3c9fe:1be69aea-00f7-4775-a9f6-8cf75e9a65b0
+[W 2021-09-29 14:13:13.377 ServerApp] Notebook figures-halfmoons.ipynb is not trusted
+/usr/people/kluther/anaconda3/envs/kpca/lib/python3.9/site-packages/jupyter_client/connect.py:187: RuntimeWarning: Failed to set sticky bit on '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-130d4d0c-dc74-4367-8398-93d3e78838a8.json': [Errno 22] Invalid argument: '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-130d4d0c-dc74-4367-8398-93d3e78838a8.json'
+Probably not a big deal, but runtime files may be cleaned up periodically.
+  warnings.warn(
+[I 2021-09-29 14:13:14.400 ServerApp] Kernel started: 130d4d0c-dc74-4367-8398-93d3e78838a8
+/usr/people/kluther/anaconda3/envs/kpca/lib/python3.9/site-packages/jupyter_client/connect.py:187: RuntimeWarning: Failed to set sticky bit on '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-130d4d0c-dc74-4367-8398-93d3e78838a8.json': [Errno 22] Invalid argument: '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-130d4d0c-dc74-4367-8398-93d3e78838a8.json'
+Probably not a big deal, but runtime files may be cleaned up periodically.
+  warnings.warn(
+[I 2021-09-29 14:15:13.080 ServerApp] Creating new directory in /figures
+[I 2021-09-29 14:15:13.849 ServerApp] Saving file at /figures-halfmoons.ipynb
+[W 2021-09-29 14:15:13.850 ServerApp] Notebook figures-halfmoons.ipynb is not trusted
+[I 2021-09-29 14:15:54.384 ServerApp] Saving file at /figures-halfmoons.ipynb
+[W 2021-09-29 14:15:54.385 ServerApp] Notebook figures-halfmoons.ipynb is not trusted
+[W 2021-09-29 14:16:01.891 ServerApp] delete /figures/half-moons-matching.pdf
+[W 2021-09-29 14:16:01.893 ServerApp] Skipping trash for /mnt/cup/labs/seung/research/kluther/kpca/figures/half-moons-matching.pdf, on different device to home directory
+[W 2021-09-29 14:16:01.900 ServerApp] delete /figures/half-moons-overview.pdf
+[W 2021-09-29 14:16:01.900 ServerApp] Skipping trash for /mnt/cup/labs/seung/research/kluther/kpca/figures/half-moons-overview.pdf, on different device to home directory
+[I 2021-09-29 14:19:25.986 ServerApp] Starting buffering for e2777256-f1ee-4001-95fa-e7a2b565adc6:f5bf5c93-f834-4102-890d-2dcd52f0873c
+[I 2021-09-29 14:19:25.988 ServerApp] Starting buffering for d84d5f02-bdc3-4cdb-a24e-0ae8b2584359:6ce54612-5b3e-456c-b8d6-c3f97284e522
+[I 2021-09-29 14:19:25.988 ServerApp] Starting buffering for 130d4d0c-dc74-4367-8398-93d3e78838a8:e08e70b0-e8af-46cf-86b4-60fc26fa7b3a
+[I 2021-09-29 14:19:25.989 ServerApp] Starting buffering for 4fdfdeb6-6d34-44bb-b536-7b66a8f273e2:18a10ded-7c41-485a-8874-fc8b476fcbcd
+[I 2021-09-29 14:19:26.015 ServerApp] Starting buffering for 906d84d1-4c63-486b-9a31-393e1e96bca7:90d7b939-c4fc-4cc2-a533-90b1d84f2737
+[W 2021-09-30 08:41:35.319 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2021-09-30 08:41:36.246 ServerApp] Notebook train-halfmoons.ipynb is not trusted
+[W 2021-09-30 08:41:36.296 ServerApp] Notebook train-mnist.ipynb is not trusted
+[W 2021-09-30 08:41:36.370 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[W 2021-09-30 08:41:36.450 ServerApp] Notebook figures-halfmoons.ipynb is not trusted
+[I 2021-09-30 08:41:39.911 ServerApp] Starting buffering for d84d5f02-bdc3-4cdb-a24e-0ae8b2584359:a2ec282b-ddd3-40dd-97b1-db679715c566
+[I 2021-09-30 08:41:40.822 ServerApp] Starting buffering for 4fdfdeb6-6d34-44bb-b536-7b66a8f273e2:0fcd4e2e-35df-448b-801b-9c83fd5f0f96
+[I 2021-09-30 08:41:41.221 ServerApp] Starting buffering for 130d4d0c-dc74-4367-8398-93d3e78838a8:bf0b2e5d-4269-4f55-a652-2d0afa7e8cab
+[I 2021-09-30 08:42:13.950 ServerApp] Kernel interrupted: e2777256-f1ee-4001-95fa-e7a2b565adc6
+[W 2021-09-30 08:42:51.138 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-09-30 08:43:36.518 ServerApp] Saving file at /train-mnist.ipynb
+[W 2021-09-30 08:43:36.519 ServerApp] Notebook train-mnist.ipynb is not trusted
+[I 2021-09-30 08:45:37.161 ServerApp] Saving file at /train-mnist.ipynb
+[W 2021-09-30 08:45:37.162 ServerApp] Notebook train-mnist.ipynb is not trusted
+[I 2021-09-30 08:47:37.243 ServerApp] Saving file at /train-mnist.ipynb
+[W 2021-09-30 08:47:37.243 ServerApp] Notebook train-mnist.ipynb is not trusted
+[I 2021-09-30 08:48:52.227 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-09-30 08:48:52.228 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-09-30 08:49:10.954 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-09-30 08:49:10.955 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-09-30 08:49:37.340 ServerApp] Saving file at /train-mnist.ipynb
+[W 2021-09-30 08:49:37.341 ServerApp] Notebook train-mnist.ipynb is not trusted
+[I 2021-09-30 08:49:46.798 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-09-30 08:49:46.798 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-09-30 08:51:37.459 ServerApp] Saving file at /train-mnist.ipynb
+[W 2021-09-30 08:51:37.460 ServerApp] Notebook train-mnist.ipynb is not trusted
+[I 2021-09-30 08:51:47.028 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-09-30 08:51:47.029 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-09-30 08:53:12.117 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-09-30 08:53:12.118 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-09-30 08:53:37.585 ServerApp] Saving file at /train-mnist.ipynb
+[W 2021-09-30 08:53:37.586 ServerApp] Notebook train-mnist.ipynb is not trusted
+[I 2021-09-30 08:53:48.274 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-09-30 08:53:48.275 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-09-30 08:55:07.308 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-09-30 08:55:07.309 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-09-30 08:55:37.687 ServerApp] Saving file at /train-mnist.ipynb
+[W 2021-09-30 08:55:37.687 ServerApp] Notebook train-mnist.ipynb is not trusted
+[I 2021-09-30 08:57:07.558 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-09-30 08:57:07.559 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-09-30 08:57:34.914 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-09-30 08:57:34.915 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-09-30 08:59:01.060 ServerApp] Saving file at /train-mnist.ipynb
+[W 2021-09-30 08:59:01.060 ServerApp] Notebook train-mnist.ipynb is not trusted
+[I 2021-09-30 08:59:35.157 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-09-30 08:59:35.157 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-09-30 08:59:57.919 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-09-30 08:59:57.920 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-09-30 09:27:58.934 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-09-30 09:27:58.935 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-09-30 09:27:59.267 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-09-30 09:27:59.268 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-09-30 09:34:04.072 ServerApp] Starting buffering for e2777256-f1ee-4001-95fa-e7a2b565adc6:d2b2bcbc-63fa-49e5-becc-fadb611b9c38
+[I 2021-09-30 09:34:04.073 ServerApp] Starting buffering for 4fdfdeb6-6d34-44bb-b536-7b66a8f273e2:299d9918-514b-432c-be56-3fe164a3ff24
+[W 2021-09-30 09:55:13.829 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2021-09-30 09:55:14.643 ServerApp] Notebook train-mnist.ipynb is not trusted
+[W 2021-09-30 09:55:14.732 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[W 2021-09-30 10:04:32.297 ServerApp] Notebook train-halfmoons.ipynb is not trusted
+[I 2021-09-30 10:04:33.208 ServerApp] Starting buffering for e2777256-f1ee-4001-95fa-e7a2b565adc6:2033f5a4-7d9b-4b9f-8a42-6cb010356300
+[I 2021-09-30 10:04:33.542 ServerApp] Starting buffering for 4fdfdeb6-6d34-44bb-b536-7b66a8f273e2:7f7b1d45-be04-45a4-9d1c-c2ed496f7e7c
+[I 2021-09-30 10:14:00.571 ServerApp] Starting buffering for d84d5f02-bdc3-4cdb-a24e-0ae8b2584359:a1dab223-49df-485b-9b2a-d9a7ae5f90b7
+[I 2021-10-03 19:15:24.376 ServerApp] AsyncIOLoopKernelRestarter: restarting kernel (1/5), keep random ports
+[I 2021-10-03 19:15:24.594 ServerApp] AsyncIOLoopKernelRestarter: restarting kernel (1/5), keep random ports
+/usr/people/kluther/anaconda3/envs/kpca/lib/python3.9/site-packages/jupyter_client/connect.py:187: RuntimeWarning: Failed to set sticky bit on '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-e2777256-f1ee-4001-95fa-e7a2b565adc6.json': [Errno 22] Invalid argument: '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-e2777256-f1ee-4001-95fa-e7a2b565adc6.json'
+Probably not a big deal, but runtime files may be cleaned up periodically.
+  warnings.warn(
+/usr/people/kluther/anaconda3/envs/kpca/lib/python3.9/site-packages/jupyter_client/connect.py:187: RuntimeWarning: Failed to set sticky bit on '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-4fdfdeb6-6d34-44bb-b536-7b66a8f273e2.json': [Errno 22] Invalid argument: '/mnt/bucket/people/kluther/.local/share/jupyter/runtime/kernel-4fdfdeb6-6d34-44bb-b536-7b66a8f273e2.json'
+Probably not a big deal, but runtime files may be cleaned up periodically.
+  warnings.warn(
+[W 2021-10-04 20:48:12.946 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2021-10-04 20:48:13.268 ServerApp] 404 GET /api/contents/explore/oct21/supervised-kernel.ipynb?content=0&1633394893225 (127.0.0.1): No such file or directory: explore/oct21/supervised-kernel.ipynb
+[W 2021-10-04 20:48:13.268 ServerApp] No such file or directory: explore/oct21/supervised-kernel.ipynb
+[W 2021-10-04 20:48:13.275 ServerApp] 404 GET /api/contents/explore/oct21/supervised-kernel.ipynb?content=0&1633394893225 (127.0.0.1) 9.86ms referer=http://localhost:9009/lab
+[W 2021-10-04 20:48:13.277 ServerApp] 404 GET /api/contents/explore/oct21/linear-classifier.ipynb?content=0&1633394893225 (127.0.0.1): No such file or directory: explore/oct21/linear-classifier.ipynb
+[W 2021-10-04 20:48:13.277 ServerApp] No such file or directory: explore/oct21/linear-classifier.ipynb
+[W 2021-10-04 20:48:13.278 ServerApp] 404 GET /api/contents/explore/oct21/linear-classifier.ipynb?content=0&1633394893225 (127.0.0.1) 12.10ms referer=http://localhost:9009/lab
+[W 2021-10-04 20:48:13.281 ServerApp] 404 GET /api/contents/hcgame/data.py?content=0&1633394893225 (127.0.0.1): No such file or directory: hcgame/data.py
+[W 2021-10-04 20:48:13.282 ServerApp] No such file or directory: hcgame/data.py
+[W 2021-10-04 20:48:13.282 ServerApp] 404 GET /api/contents/hcgame/data.py?content=0&1633394893225 (127.0.0.1) 3.07ms referer=http://localhost:9009/lab
+[W 2021-10-04 20:48:13.936 ServerApp] 404 GET /api/contents/hcgame?1633394893885 (127.0.0.1): No such file or directory: hcgame
+[W 2021-10-04 20:48:13.937 ServerApp] No such file or directory: hcgame
+[W 2021-10-04 20:48:13.937 ServerApp] 404 GET /api/contents/hcgame?1633394893885 (127.0.0.1) 1.94ms referer=http://localhost:9009/lab
+[W 2021-10-04 20:48:43.522 ServerApp] Notebook figures-halfmoons.ipynb is not trusted
+[W 2021-10-04 20:49:00.588 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-10-04 20:49:02.992 ServerApp] Discarding 1 buffered messages for 4fdfdeb6-6d34-44bb-b536-7b66a8f273e2:7f7b1d45-be04-45a4-9d1c-c2ed496f7e7c
+[I 2021-10-04 20:49:13.927 ServerApp] Starting buffering for 4fdfdeb6-6d34-44bb-b536-7b66a8f273e2:c579555d-6382-4c8a-8c9c-3b1e218d16e9
+[I 2021-10-04 20:49:25.204 ServerApp] Saving file at /figures-halfmoons.ipynb
+[W 2021-10-04 20:49:25.205 ServerApp] Notebook figures-halfmoons.ipynb is not trusted
+[I 2021-10-04 20:51:25.433 ServerApp] Saving file at /figures-halfmoons.ipynb
+[W 2021-10-04 20:51:25.434 ServerApp] Notebook figures-halfmoons.ipynb is not trusted
+[I 2021-10-04 20:53:25.863 ServerApp] Saving file at /figures-halfmoons.ipynb
+[W 2021-10-04 20:53:25.864 ServerApp] Notebook figures-halfmoons.ipynb is not trusted
+[I 2021-10-04 20:55:26.074 ServerApp] Saving file at /figures-halfmoons.ipynb
+[W 2021-10-04 20:55:26.074 ServerApp] Notebook figures-halfmoons.ipynb is not trusted
+[I 2021-10-04 20:57:26.476 ServerApp] Saving file at /figures-halfmoons.ipynb
+[W 2021-10-04 20:57:26.476 ServerApp] Notebook figures-halfmoons.ipynb is not trusted
+[I 2021-10-04 20:58:19.122 ServerApp] Saving file at /figures-halfmoons.ipynb
+[W 2021-10-04 20:58:19.123 ServerApp] Notebook figures-halfmoons.ipynb is not trusted
+[I 2021-10-04 20:58:29.038 ServerApp] Saving file at /figures-halfmoons.ipynb
+[W 2021-10-04 20:58:29.039 ServerApp] Notebook figures-halfmoons.ipynb is not trusted
+[I 2021-10-04 21:00:09.563 ServerApp] Saving file at /figures-halfmoons.ipynb
+[W 2021-10-04 21:00:09.564 ServerApp] Notebook figures-halfmoons.ipynb is not trusted
+[I 2021-10-04 21:00:14.365 ServerApp] Saving file at /figures-halfmoons.ipynb
+[W 2021-10-04 21:00:14.366 ServerApp] Notebook figures-halfmoons.ipynb is not trusted
+[I 2021-10-04 21:02:14.787 ServerApp] Saving file at /figures-halfmoons.ipynb
+[W 2021-10-04 21:02:14.788 ServerApp] Notebook figures-halfmoons.ipynb is not trusted
+[I 2021-10-04 21:03:44.383 ServerApp] Saving file at /figures-halfmoons.ipynb
+[W 2021-10-04 21:03:44.383 ServerApp] Notebook figures-halfmoons.ipynb is not trusted
+[I 2021-10-04 21:05:04.892 ServerApp] Saving file at /figures-halfmoons.ipynb
+[W 2021-10-04 21:05:04.893 ServerApp] Notebook figures-halfmoons.ipynb is not trusted
+[I 2021-10-04 21:07:05.310 ServerApp] Saving file at /figures-halfmoons.ipynb
+[W 2021-10-04 21:07:05.311 ServerApp] Notebook figures-halfmoons.ipynb is not trusted
+[I 2021-10-04 21:09:05.540 ServerApp] Saving file at /figures-halfmoons.ipynb
+[W 2021-10-04 21:09:05.541 ServerApp] Notebook figures-halfmoons.ipynb is not trusted
+[W 2021-10-04 21:09:38.610 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-10-04 21:11:40.576 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-10-04 21:11:40.577 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-10-04 21:13:41.124 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-10-04 21:13:41.125 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-10-04 21:13:44.683 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-10-04 21:13:44.684 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-10-04 21:14:24.976 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-10-04 21:14:24.977 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-10-04 21:14:45.066 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-10-04 21:14:45.067 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-10-04 21:18:45.692 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-10-04 21:18:45.693 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-10-04 21:20:46.386 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-10-04 21:20:46.387 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-10-04 21:21:40.023 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-10-04 21:21:40.024 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-10-04 21:23:44.984 ServerApp] Starting buffering for 4fdfdeb6-6d34-44bb-b536-7b66a8f273e2:42fe2c62-3a6d-4e24-ba30-31d45a72a3d2
+[I 2021-10-04 21:23:44.985 ServerApp] Starting buffering for 130d4d0c-dc74-4367-8398-93d3e78838a8:a6856a78-2757-42d7-a117-c3a7a44aaa6a
+[W 2021-10-05 08:35:48.461 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2021-10-05 08:35:48.829 ServerApp] 404 GET /api/contents/explore/sep21/embedding-game-extreme.ipynb?content=0&1633437348819 (127.0.0.1): No such file or directory: explore/sep21/embedding-game-extreme.ipynb
+[W 2021-10-05 08:35:48.829 ServerApp] No such file or directory: explore/sep21/embedding-game-extreme.ipynb
+[W 2021-10-05 08:35:48.830 ServerApp] 404 GET /api/contents/explore/sep21/embedding-game-extreme.ipynb?content=0&1633437348819 (127.0.0.1) 3.76ms referer=http://localhost:9009/lab
+[W 2021-10-05 08:35:48.833 ServerApp] 404 GET /api/contents/explore/sep21/manifold-pymde-vs-alternating.ipynb?content=0&1633437348820 (127.0.0.1): No such file or directory: explore/sep21/manifold-pymde-vs-alternating.ipynb
+[W 2021-10-05 08:35:48.833 ServerApp] No such file or directory: explore/sep21/manifold-pymde-vs-alternating.ipynb
+[W 2021-10-05 08:35:48.834 ServerApp] 404 GET /api/contents/explore/sep21/manifold-pymde-vs-alternating.ipynb?content=0&1633437348820 (127.0.0.1) 3.57ms referer=http://localhost:9009/lab
+[W 2021-10-05 08:35:48.835 ServerApp] 404 GET /api/contents/explore/sep21/manifold-laplacian-eigenvectors.ipynb?content=0&1633437348822 (127.0.0.1): No such file or directory: explore/sep21/manifold-laplacian-eigenvectors.ipynb
+[W 2021-10-05 08:35:48.835 ServerApp] No such file or directory: explore/sep21/manifold-laplacian-eigenvectors.ipynb
+[W 2021-10-05 08:35:48.836 ServerApp] 404 GET /api/contents/explore/sep21/manifold-laplacian-eigenvectors.ipynb?content=0&1633437348822 (127.0.0.1) 4.10ms referer=http://localhost:9009/lab
+[W 2021-10-05 08:35:48.837 ServerApp] 404 GET /api/contents/explore/sep21/manifold-various-penalty.ipynb?content=0&1633437348823 (127.0.0.1): No such file or directory: explore/sep21/manifold-various-penalty.ipynb
+[W 2021-10-05 08:35:48.838 ServerApp] No such file or directory: explore/sep21/manifold-various-penalty.ipynb
+[W 2021-10-05 08:35:48.838 ServerApp] 404 GET /api/contents/explore/sep21/manifold-various-penalty.ipynb?content=0&1633437348823 (127.0.0.1) 2.01ms referer=http://localhost:9009/lab
+[W 2021-10-05 08:35:48.840 ServerApp] 404 GET /api/contents/explore/sep21/sdd-manifold-sample-fixed-negative-edge-Copy1.ipynb?content=0&1633437348824 (127.0.0.1): No such file or directory: explore/sep21/sdd-manifold-sample-fixed-negative-edge-Copy1.ipynb
+[W 2021-10-05 08:35:48.840 ServerApp] No such file or directory: explore/sep21/sdd-manifold-sample-fixed-negative-edge-Copy1.ipynb
+[W 2021-10-05 08:35:48.841 ServerApp] 404 GET /api/contents/explore/sep21/sdd-manifold-sample-fixed-negative-edge-Copy1.ipynb?content=0&1633437348824 (127.0.0.1) 2.25ms referer=http://localhost:9009/lab
+[W 2021-10-05 08:35:50.166 ServerApp] 404 GET /api/contents/explore/sep21?1633437350159 (127.0.0.1): No such file or directory: explore/sep21
+[W 2021-10-05 08:35:50.166 ServerApp] No such file or directory: explore/sep21
+[W 2021-10-05 08:35:50.167 ServerApp] 404 GET /api/contents/explore/sep21?1633437350159 (127.0.0.1) 1.77ms referer=http://localhost:9009/lab
+[W 2021-10-05 08:37:40.644 ServerApp] Notebook figures-halfmoons.ipynb is not trusted
+[W 2021-10-05 08:37:50.933 ServerApp] Notebook train-halfmoons.ipynb is not trusted
+[I 2021-10-05 08:39:45.145 ServerApp] Kernel interrupted: d84d5f02-bdc3-4cdb-a24e-0ae8b2584359
+[I 2021-10-05 08:39:51.247 ServerApp] Saving file at /train-halfmoons.ipynb
+[W 2021-10-05 08:39:51.248 ServerApp] Notebook train-halfmoons.ipynb is not trusted
+[I 2021-10-05 08:41:41.070 ServerApp] Saving file at /figures-halfmoons.ipynb
+[W 2021-10-05 08:41:41.070 ServerApp] Notebook figures-halfmoons.ipynb is not trusted
+[I 2021-10-05 08:41:51.373 ServerApp] Saving file at /train-halfmoons.ipynb
+[W 2021-10-05 08:41:51.374 ServerApp] Notebook train-halfmoons.ipynb is not trusted
+[I 2021-10-05 08:43:41.211 ServerApp] Saving file at /figures-halfmoons.ipynb
+[W 2021-10-05 08:43:41.212 ServerApp] Notebook figures-halfmoons.ipynb is not trusted
+[I 2021-10-05 08:43:51.499 ServerApp] Saving file at /train-halfmoons.ipynb
+[W 2021-10-05 08:43:51.501 ServerApp] Notebook train-halfmoons.ipynb is not trusted
+[I 2021-10-05 08:45:11.027 ServerApp] Kernel interrupted: d84d5f02-bdc3-4cdb-a24e-0ae8b2584359
+[I 2021-10-05 08:45:51.628 ServerApp] Saving file at /train-halfmoons.ipynb
+[W 2021-10-05 08:45:51.629 ServerApp] Notebook train-halfmoons.ipynb is not trusted
+[I 2021-10-05 08:47:51.771 ServerApp] Saving file at /train-halfmoons.ipynb
+[I 2021-10-05 08:48:08.977 ServerApp] Saving file at /train-halfmoons.ipynb
+[I 2021-10-05 08:49:15.827 ServerApp] Saving file at /figures-halfmoons.ipynb
+[W 2021-10-05 08:49:15.827 ServerApp] Notebook figures-halfmoons.ipynb is not trusted
+[I 2021-10-05 08:49:25.508 ServerApp] Saving file at /figures-halfmoons.ipynb
+[W 2021-10-05 08:49:25.509 ServerApp] Notebook figures-halfmoons.ipynb is not trusted
+[I 2021-10-05 08:49:26.631 ServerApp] Saving file at /train-halfmoons.ipynb
+[I 2021-10-05 08:50:09.337 ServerApp] Saving file at /figures-halfmoons.ipynb
+[W 2021-10-05 08:50:09.338 ServerApp] Notebook figures-halfmoons.ipynb is not trusted
+[I 2021-10-05 08:50:21.251 ServerApp] Saving file at /figures-halfmoons.ipynb
+[I 2021-10-05 08:52:21.384 ServerApp] Saving file at /figures-halfmoons.ipynb
+[I 2021-10-05 08:54:21.532 ServerApp] Saving file at /figures-halfmoons.ipynb
+[I 2021-10-05 08:56:21.682 ServerApp] Saving file at /figures-halfmoons.ipynb
+[I 2021-10-05 08:58:21.836 ServerApp] Saving file at /figures-halfmoons.ipynb
+[I 2021-10-05 08:58:50.616 ServerApp] Saving file at /figures-halfmoons.ipynb
+[I 2021-10-05 09:00:11.652 ServerApp] Saving file at /figures-halfmoons.ipynb
+[I 2021-10-05 09:01:04.134 ServerApp] Saving file at /kpca/data.py
+[I 2021-10-05 09:01:32.678 ServerApp] Saving file at /kpca/data.py
+[I 2021-10-05 09:02:19.446 ServerApp] Saving file at /kpca/data.py
+[I 2021-10-05 09:03:08.060 ServerApp] Kernel interrupted: d84d5f02-bdc3-4cdb-a24e-0ae8b2584359
+[I 2021-10-05 09:03:11.497 ServerApp] Kernel interrupted: d84d5f02-bdc3-4cdb-a24e-0ae8b2584359
+[I 2021-10-05 09:03:26.777 ServerApp] Saving file at /train-halfmoons.ipynb
+[I 2021-10-05 09:05:26.922 ServerApp] Saving file at /train-halfmoons.ipynb
+[I 2021-10-05 09:07:18.325 ServerApp] Saving file at /train-halfmoons.ipynb
+[I 2021-10-05 09:08:11.808 ServerApp] Saving file at /figures-halfmoons.ipynb
+[I 2021-10-05 09:09:18.464 ServerApp] Saving file at /train-halfmoons.ipynb
+[I 2021-10-05 09:09:30.131 ServerApp] Saving file at /figures-halfmoons.ipynb
+[I 2021-10-05 09:09:39.087 ServerApp] Saving file at /train-halfmoons.ipynb
+[I 2021-10-05 09:19:32.203 ServerApp] Saving file at /figures-halfmoons.ipynb
+[I 2021-10-05 09:19:37.323 ServerApp] Kernel interrupted: d84d5f02-bdc3-4cdb-a24e-0ae8b2584359
+[I 2021-10-05 09:19:40.181 ServerApp] Saving file at /train-halfmoons.ipynb
+[I 2021-10-05 09:20:42.669 ServerApp] Saving file at /train-halfmoons.ipynb
+[I 2021-10-05 09:21:32.370 ServerApp] Saving file at /figures-halfmoons.ipynb
+[I 2021-10-05 09:21:56.075 ServerApp] Saving file at /kpca/data.py
+[I 2021-10-05 09:22:42.821 ServerApp] Saving file at /train-halfmoons.ipynb
+[I 2021-10-05 09:23:08.515 ServerApp] Saving file at /train-halfmoons.ipynb
+[I 2021-10-05 09:23:32.524 ServerApp] Saving file at /figures-halfmoons.ipynb
+[I 2021-10-05 09:24:56.922 ServerApp] Saving file at /figures-halfmoons.ipynb
+[I 2021-10-05 09:25:08.668 ServerApp] Saving file at /train-halfmoons.ipynb
+[I 2021-10-05 09:25:40.044 ServerApp] Saving file at /kpca/data.py
+[I 2021-10-05 09:25:58.195 ServerApp] Saving file at /train-halfmoons.ipynb
+[I 2021-10-05 09:26:57.074 ServerApp] Saving file at /figures-halfmoons.ipynb
+[I 2021-10-05 09:28:57.224 ServerApp] Saving file at /figures-halfmoons.ipynb
+[I 2021-10-05 09:30:57.375 ServerApp] Saving file at /figures-halfmoons.ipynb
+[I 2021-10-05 09:31:43.348 ServerApp] Saving file at /figures-halfmoons.ipynb
+[I 2021-10-05 09:33:43.529 ServerApp] Saving file at /figures-halfmoons.ipynb
+[I 2021-10-05 09:35:43.681 ServerApp] Saving file at /figures-halfmoons.ipynb
+[I 2021-10-05 09:37:43.846 ServerApp] Saving file at /figures-halfmoons.ipynb
+[I 2021-10-05 09:37:54.885 ServerApp] Saving file at /figures-halfmoons.ipynb
+[W 2021-10-05 09:38:25.554 ServerApp] delete /half-moons-kmeans.pdf
+[W 2021-10-05 09:38:25.554 ServerApp] Skipping trash for /mnt/cup/labs/seung/research/kluther/kpca/half-moons-kmeans.pdf, on different device to home directory
+[W 2021-10-05 09:38:25.559 ServerApp] delete /half-moons-overview.pdf
+[W 2021-10-05 09:38:25.560 ServerApp] Skipping trash for /mnt/cup/labs/seung/research/kluther/kpca/half-moons-overview.pdf, on different device to home directory
+[W 2021-10-05 09:38:25.564 ServerApp] delete /half-moons-matching.pdf
+[W 2021-10-05 09:38:25.565 ServerApp] Skipping trash for /mnt/cup/labs/seung/research/kluther/kpca/half-moons-matching.pdf, on different device to home directory
+[I 2021-10-05 09:38:50.403 ServerApp] Saving file at /figures-halfmoons.ipynb
+[W 2021-10-05 09:39:23.199 ServerApp] delete /figures/halfmoons/half-moons-pcs.pdf
+[W 2021-10-05 09:39:23.201 ServerApp] Skipping trash for /mnt/cup/labs/seung/research/kluther/kpca/figures/halfmoons/half-moons-pcs.pdf, on different device to home directory
+[I 2021-10-05 09:52:53.212 ServerApp] Saving file at /figures-halfmoons.ipynb
+[I 2021-10-05 09:52:57.500 ServerApp] Saving file at /figures-halfmoons.ipynb
+[I 2021-10-05 10:06:19.726 ServerApp] Saving file at /figures-halfmoons.ipynb
+[I 2021-10-05 10:08:20.201 ServerApp] Saving file at /figures-halfmoons.ipynb
+[W 2021-10-05 10:36:11.272 ServerApp] Notebook train-mnist.ipynb is not trusted
+[I 2021-10-05 10:36:45.869 ServerApp] Saving file at /train-mnist.ipynb
+[W 2021-10-05 10:36:45.870 ServerApp] Notebook train-mnist.ipynb is not trusted
+[I 2021-10-05 10:37:27.730 ServerApp] Kernel interrupted: e2777256-f1ee-4001-95fa-e7a2b565adc6
+[W 2021-10-05 10:37:59.380 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-10-05 10:38:46.033 ServerApp] Saving file at /train-mnist.ipynb
+[W 2021-10-05 10:38:46.034 ServerApp] Notebook train-mnist.ipynb is not trusted
+[I 2021-10-05 10:39:28.167 ServerApp] Starting buffering for d84d5f02-bdc3-4cdb-a24e-0ae8b2584359:8907553a-dbbf-459e-b11f-7b9d44316a18
+[I 2021-10-05 10:39:31.471 ServerApp] Starting buffering for 130d4d0c-dc74-4367-8398-93d3e78838a8:5350945c-c71d-4867-b43e-aed96bac44d2
+[I 2021-10-05 10:39:56.145 ServerApp] Saving file at /train-mnist.ipynb
+[I 2021-10-05 10:40:00.002 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-10-05 10:40:00.003 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-10-05 10:41:56.329 ServerApp] Saving file at /train-mnist.ipynb
+[I 2021-10-05 10:42:00.317 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-10-05 10:42:00.320 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-10-05 10:43:57.213 ServerApp] Saving file at /train-mnist.ipynb
+[I 2021-10-05 10:44:01.234 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-10-05 10:44:01.235 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-10-05 10:45:57.413 ServerApp] Saving file at /train-mnist.ipynb
+[I 2021-10-05 10:46:01.526 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-10-05 10:46:01.527 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-10-05 10:46:24.319 ServerApp] Saving file at /train-mnist.ipynb
+[I 2021-10-05 10:48:01.795 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-10-05 10:48:01.796 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-10-05 10:50:02.077 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-10-05 10:50:02.078 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-10-05 10:50:31.340 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-10-05 10:50:31.342 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-10-05 10:52:32.242 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-10-05 10:52:32.244 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-10-05 10:54:33.239 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-10-05 10:54:33.240 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-10-05 10:56:34.255 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-10-05 10:56:34.256 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-10-05 10:58:35.259 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-10-05 10:58:35.261 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-10-05 11:00:36.267 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-10-05 11:00:36.268 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-10-05 11:02:37.241 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-10-05 11:02:37.242 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-10-05 11:04:38.258 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-10-05 11:04:38.260 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-10-05 11:06:39.254 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-10-05 11:06:39.255 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-10-05 11:08:40.241 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-10-05 11:08:40.242 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-10-05 11:10:41.259 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-10-05 11:10:41.260 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-10-05 11:12:42.241 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-10-05 11:12:42.243 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-10-05 11:14:43.250 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-10-05 11:14:43.251 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-10-05 11:16:44.253 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-10-05 11:16:44.254 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-10-05 11:20:45.258 ServerApp] Saving file at /figures-mnist.ipynb
+[W 2021-10-05 11:20:45.259 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[I 2021-10-05 13:33:26.580 ServerApp] Starting buffering for e2777256-f1ee-4001-95fa-e7a2b565adc6:383954c5-c333-4e17-8f8c-72d71a2a75e0
+[I 2021-10-05 13:33:26.585 ServerApp] Starting buffering for 4fdfdeb6-6d34-44bb-b536-7b66a8f273e2:22afb4c4-aab4-416d-a4f0-c253bfe0ea60
+[W 2021-10-05 19:42:11.224 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2021-10-05 19:42:12.037 ServerApp] Notebook figures-mnist.ipynb is not trusted
+[W 2021-10-05 19:42:12.165 ServerApp] Notebook train-mnist.ipynb is not trusted
+[I 2021-10-05 19:42:48.788 ServerApp] Saving file at /kpca/data.py
